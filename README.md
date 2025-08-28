@@ -215,13 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/) for the blazing fast build tool
 - [React](https://reactjs.org/) for the powerful UI library
 
-## 📞 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/redux-toolkit-todo](https://github.com/yourusername/redux-toolkit-todo)
-
----
 
 <div align="center">
 
