@@ -1,7 +1,8 @@
 # ✅  Todo App
 
 A modern, feature-rich todo application built with React and Redux Toolkit. Experience seamless state management with a beautiful, responsive interface powered by Tailwind CSS.
-
+![Home Page](./public/screenshot.png)
+*Application Home Page*
 <div align="center">
 
 ![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
